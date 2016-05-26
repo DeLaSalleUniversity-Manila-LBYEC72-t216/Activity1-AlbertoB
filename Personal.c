@@ -27,7 +27,6 @@ int main() {
 		printf("@");
 	}
 	
-	system("PAUSE");
 	return 0;
 	
 }
