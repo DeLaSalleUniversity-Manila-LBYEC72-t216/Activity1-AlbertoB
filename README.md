@@ -34,7 +34,7 @@ int main() {
 	
 }
 ```
-![](1.png)
+![](1.PNG)
 
 ```
 #include <stdio.h>
@@ -57,7 +57,7 @@ int main() {
 	return 0;
 }
 ```
-![](2.png)
+![](2.PNG)
 
 ```
 #include <stdio.h>
@@ -78,7 +78,7 @@ int main() {
 	return 0;
 }
 ```
-![](3.png)
+![](3.PNG)
 
 ```
 #include <stdio.h>
@@ -98,4 +98,4 @@ int main() {
 	return 0;
 }
 ```
-![](4.png)
+![](4.PNG)
