@@ -12,6 +12,5 @@ int main() {
 	
 	printf("\nYour approximate age is: %d", age);
 	
-	getch();
 	return 0;
 }
