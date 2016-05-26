@@ -12,6 +12,5 @@ int main() {
 	
 	printf("The value of f(x) when f(x)=x/70 is: %.2f",y);
 	
-	getch();
 	return 0;
 }
